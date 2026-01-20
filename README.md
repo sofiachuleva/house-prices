@@ -38,16 +38,16 @@
     ```bash 
     venv\Scripts\activate
     ```
-    Для Windows в GitBash:
+    Для Windows в Git Bash:
    ```bash 
     source venv/Scripts/activate
     ```
-6. Установка зависимостей
+5. Установка зависимостей
     ```bash 
     pip install -r requirements.txt
     ```
-7. Запуск Jupyter Notebook
+6. Запуск Jupyter Notebook
     ```bash 
     jupyter notebook
     ```
-    Далее, откройте `house-prices.ipynb` и запустите все ячейки.
+    Далее, откройте `house-prices.ipynb` и запустите все ячейки последовательно.
