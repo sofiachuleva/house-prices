@@ -34,15 +34,19 @@
     ```bash 
     source venv/bin/activate
     ```
-    Для Windows:
+    Для Windows в cmd:
     ```bash 
     venv\Scripts\activate
     ```
-5. Установка зависимостей
+    Для Windows в GitBash:
+   ```bash 
+    source venv/Scripts/activate
+    ```
+6. Установка зависимостей
     ```bash 
     pip install -r requirements.txt
     ```
-6. Запуск Jupyter Notebook
+7. Запуск Jupyter Notebook
     ```bash 
     jupyter notebook
     ```
