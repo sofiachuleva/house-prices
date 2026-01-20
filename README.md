@@ -17,6 +17,8 @@
 1. Клонирование репозитория
 	```bash 
 	git clone https://github.com/sofiachuleva/house-prices.git
+ 	```
+ 	```bash
     cd house-prices
 	```
 2. Датасет
