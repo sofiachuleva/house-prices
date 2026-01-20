@@ -39,9 +39,9 @@
     venv\Scripts\activate
     ```
     Для Windows в Git Bash:
-   ```bash 
-    source venv/Scripts/activate
-    ```
+	```bash
+ 	source venv/Scripts/activate
+ 	```
 5. Установка зависимостей
     ```bash 
     pip install -r requirements.txt
